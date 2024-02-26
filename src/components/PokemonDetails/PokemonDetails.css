@@ -1,0 +1,18 @@
+
+.pokemon-details-wrapper{
+    display: flex;
+    flex-direction: column;   
+    margin-top: 50px;
+    text-align: center;
+}
+.pokemon-img{
+    margin-top: 20px;
+}
+.details-head{
+    font-size: 2rem;
+    font-family: system-ui;
+    letter-spacing: 5px;
+}
+body{
+    background: #e5e5e5;
+}
